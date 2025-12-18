@@ -1,0 +1,145 @@
+# Author: Elliot Grigor (github.com/elliotgrigor)
+# Source: https://github.com/elliotgrigor/helix-theme-one7four
+#
+
+# "attribute"                 = "lilac"
+"comment"                   = "green"
+"constant.builtin"          = "plaintext"
+"constant.character.escape" = "blue"
+"constant.numeric"          = "orange"
+"constant"                  = "plaintext"
+"constructor"               = "plaintext"
+"function.builtin"          = "plaintext"
+"function.macro"            = "plaintext"
+"function"                  = "plaintext"
+"keyword.directive"         = "silver"
+"keyword"                   = "yellow"
+"label"                     = "plaintext"
+"namespace"                 = "blue"
+"operator"                  = "plaintext"
+"punctuation.delimiter"     = "plaintext"
+"punctuation"               = "plaintext"
+# "special"                   = "honey"
+"string"                    = "purple"
+"tabstop"                   = { modifiers = ["italic"], bg = "bossanova" }
+"tag"                       = "red"
+"type.builtin"              = "yellow"
+"type"                      = "plaintext"
+"variable.builtin"          = "plaintext"
+"variable.other.member"     = "plaintext"
+"variable.parameter"        = { fg = "plaintext"}
+"variable"                  = "plaintext"
+
+"markup.bold"               = { modifiers = ["bold"] }
+"markup.heading"            = "pink"
+"markup.italic"             = { modifiers = ["italic"] }
+"markup.link.text"          = "plaintext"
+"markup.link.url"           = { fg = "blue", modifiers = ["underlined"] }
+"markup.list"               = "blue"
+"markup.quote"              = "purple"
+"markup.raw"                = "silver"
+"markup.strikethrough"      = { modifiers = ["crossed_out"] }
+
+"diff.delta"                = "yellow"
+"diff.minus"                = "red"
+"diff.plus"                 = "green"
+
+"ui.background"             = { bg = "grey4" }
+"ui.background.separator"   = { fg = "grey5" }
+                      
+"ui.cursor.insert"          = { bg = "plaintext" }
+"ui.cursor.match"           = { fg = "grey5", bg = "grey1" }
+"ui.cursor"                 = { modifiers = ["reversed"] }
+"ui.cursor.primary.insert"  = { bg = "plaintext" }
+"ui.cursor.primary.select"  = { bg = "red" }
+# "ui.cursor.select"          = { bg = "delta" }
+
+"ui.cursorline.primary"     = { bg = "grey3" }
+
+# "ui.debug"                  = { fg = "#634450" }
+# "ui.debug.breakpoint"       = { fg = "apricot" }
+
+"ui.gutter"                 = { bg = "grey4" }
+"ui.gutter.selected"        = { bg = "grey3" }
+
+"ui.linenr"                 = { fg = "grey2" }
+"ui.linenr.selected"        = { fg = "yellow" }
+
+"ui.statusline"             = { fg = "silver", bg = "grey5" }
+"ui.statusline.inactive"    = { fg = "plaintext", bg = "grey5" }
+
+"ui.bufferline"             = { fg = "grey1", bg = "grey5" }
+"ui.bufferline.active"      = { fg = "plaintext", bg = "grey3" }
+
+"ui.popup"                  = { bg = "grey5" }
+# "ui.popup.info"             = { bg = "" }
+
+"ui.help"                   = { fg = "plaintext", bg = "grey5" }
+"ui.window"                 = { fg = "yellow" }
+
+# "ui.text.directory"         = { fg = "lilac" }
+"ui.text"                   = { fg = "plaintext" }
+"ui.text.focus"             = { fg = "plaintext" }
+# "ui.text.inactive"          = "sirocco"
+
+# "ui.virtual"                = { fg = "comet" }
+"ui.virtual.indent-guide"   = { fg = "grey5" }
+# "ui.virtual.jump-label"     = { fg = "apricot", modifiers = ["bold"] }
+"ui.virtual.ruler"          = { bg = "grey5" }
+"ui.virtual.whitespace"     = "grey2"
+
+"ui.selection"              = { bg = "gold" }
+"ui.selection.primary"      = { bg = "grey2" }
+
+"ui.highlight"              = { bg = "grey3" }
+"ui.highlight.frameline"    = { bg = "red" }
+
+"ui.menu"                   = { fg = "silver", bg = "grey5" }
+# "ui.menu.scroll"            = { fg = "lavender", bg = "comet" }
+"ui.menu.selected"          = { fg = "grey5", bg = "plaintext" }
+
+"diagnostic.deprecated"     = { modifiers = ["crossed_out"] }
+# "diagnostic.error"          = { underline = { color = "apricot", style = "curl" } }
+"diagnostic.hint"           = { underline = { color = "silver", style = "curl" } }
+# "diagnostic.info"           = { underline = { color = "delta", style = "curl" } }
+"diagnostic.unnecessary"    = { modifiers = ["dim"] }
+# "diagnostic.warning"        = { underline = { color = "lightning", style = "curl" } }
+
+error   = "silver"
+hint    = "silver"
+info    = "silver"
+warning = "silver"
+
+[palette]
+# white     = "#ffffff"
+# lilac     = "#dbbfef"
+# lavender  = "#a4a0e8"
+# comet     = "#5a5977"
+# bossanova = "#452859"
+# midnight  = "#3b224c"
+# revolver  = "#281733"
+# sirocco   = "#697c81"
+# mint      = "#9ff28f"
+# chamois   = "#e8dca0"
+# honey     = "#efba5d"
+# apricot   = "#f47868"
+# lightning = "#ffcd1c"
+# delta     = "#6f44f0"
+
+plaintext = "#e4e4ef"
+grey0     = "#cccccc" # + light
+grey1     = "#999999" # |
+grey2     = "#555555" # |
+grey3     = "#333333" # |
+grey4     = "#202020" # |
+grey5     = "#1c1c1c" # - dark
+
+red       = "#ff6666"
+orange    = "#ff9955"
+yellow    = "#ffdd33"
+green     = "#71c837"
+blue      = "#80b3ff"
+purple    = "#aa87de"
+pink      = "#ff80b2"
+silver    = "#cccccc"
+gold      = "#d7a457"
