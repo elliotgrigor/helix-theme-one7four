@@ -37,7 +37,7 @@
 "markup.link.url"           = { fg = "blue", modifiers = ["underlined"] }
 "markup.list"               = "blue"
 "markup.quote"              = "purple"
-"markup.raw"                = "silver"
+"markup.raw"                = "yellow"
 "markup.strikethrough"      = { modifiers = ["crossed_out"] }
 
 "diff.delta"                = "yellow"
