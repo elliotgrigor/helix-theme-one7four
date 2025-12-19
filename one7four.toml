@@ -44,7 +44,7 @@
 "diff.minus"                = "red"
 "diff.plus"                 = "green"
 
-"ui.background"             = { bg = "grey4" }
+"ui.background"             = { fg = "plaintext", bg = "grey4" }
 "ui.background.separator"   = { fg = "grey5" }
                       
 "ui.cursor.insert"          = { bg = "plaintext" }
