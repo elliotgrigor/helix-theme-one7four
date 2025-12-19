@@ -99,11 +99,11 @@
 "ui.menu.selected"          = { fg = "grey5", bg = "plaintext" }
 
 "diagnostic.deprecated"     = { modifiers = ["crossed_out"] }
-# "diagnostic.error"          = { underline = { color = "apricot", style = "curl" } }
+"diagnostic.error"          = { underline = { color = "silver", style = "curl" } }
 "diagnostic.hint"           = { underline = { color = "silver", style = "curl" } }
-# "diagnostic.info"           = { underline = { color = "delta", style = "curl" } }
+"diagnostic.info"           = { underline = { color = "silver", style = "curl" } }
 "diagnostic.unnecessary"    = { modifiers = ["dim"] }
-# "diagnostic.warning"        = { underline = { color = "lightning", style = "curl" } }
+"diagnostic.warning"        = { underline = { color = "silver", style = "curl" } }
 
 error   = "silver"
 hint    = "silver"
