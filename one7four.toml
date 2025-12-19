@@ -22,7 +22,7 @@
 # "special"                   = "honey"
 "string"                    = "purple"
 # "tabstop"                   = { modifiers = ["italic"], bg = "bossanova" }
-"tag"                       = "red"
+"tag"                       = "orange"
 "type.builtin"              = "yellow"
 "type"                      = "plaintext"
 "variable.builtin"          = "plaintext"
