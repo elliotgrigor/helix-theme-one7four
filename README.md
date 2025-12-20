@@ -5,4 +5,4 @@ Heavily influenced by [gruber-darker](https://github.com/helix-editor/helix/blob
 
 | Rust                                        | HTML                                                 |
 |---------------------------------------------|------------------------------------------------------|
-| ![Rust preview](./screenshots/preview0.png) | [HTML preview](./screenshots/preview1.png)           |
+| ![Rust preview](./screenshots/preview0.png) | ![HTML preview](./screenshots/preview1.png)           |
