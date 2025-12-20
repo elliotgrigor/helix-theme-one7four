@@ -72,7 +72,7 @@
 "ui.bufferline.active"      = { fg = "plaintext", bg = "grey3" }
 
 "ui.popup"                  = { bg = "grey5" }
-# "ui.popup.info"             = { bg = "" }
+"ui.popup.info"             = { fg = "gold", bg = "grey5" }
 
 "ui.help"                   = { fg = "plaintext", bg = "grey5" }
 "ui.window"                 = { fg = "yellow" }
