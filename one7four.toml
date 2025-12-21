@@ -46,10 +46,10 @@
 
 "ui.background"             = { fg = "plaintext", bg = "grey4" }
 "ui.background.separator"   = { fg = "grey5" }
-                      
+
 "ui.cursor.insert"          = { bg = "plaintext" }
 "ui.cursor.match"           = { fg = "silver", bg = "grey2" }
-"ui.cursor"                 = { modifiers = ["reversed"] }
+"ui.cursor"                 = { fg = "grey5", bg = "yellow" }
 "ui.cursor.primary.insert"  = { bg = "plaintext" }
 "ui.cursor.primary.select"  = { bg = "red" }
 # "ui.cursor.select"          = { bg = "delta" }
