@@ -88,7 +88,7 @@
 "ui.virtual.ruler"          = { bg = "grey5" }
 "ui.virtual.whitespace"     = "grey2"
 
-"ui.selection"              = { bg = "gold" }
+"ui.selection"              = { bg = "grey2" }
 "ui.selection.primary"      = { bg = "grey2" }
 
 "ui.highlight"              = { bg = "grey3" }
