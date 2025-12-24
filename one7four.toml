@@ -2,7 +2,7 @@
 # Source: https://github.com/elliotgrigor/helix-theme-one7four
 #
 
-# "attribute"                 = "lilac"
+"attribute"                 = "silver"
 "comment"                   = "green"
 "constant.builtin"          = "plaintext"
 "constant.character.escape" = "blue"
@@ -14,7 +14,7 @@
 "function"                  = "plaintext"
 "keyword.directive"         = "silver"
 "keyword"                   = "yellow"
-"label"                     = "plaintext"
+"label"                     = "orange"
 "namespace"                 = "blue"
 "operator"                  = "plaintext"
 "punctuation.delimiter"     = "plaintext"
