@@ -33,11 +33,11 @@
 "markup.bold"               = { modifiers = ["bold"] }
 "markup.heading"            = "pink"
 "markup.italic"             = { modifiers = ["italic"] }
-"markup.link.text"          = "plaintext"
+"markup.link.text"          = "silver"
 "markup.link.url"           = { fg = "blue", modifiers = ["underlined"] }
 "markup.list"               = "blue"
 "markup.quote"              = "purple"
-"markup.raw"                = "yellow"
+"markup.raw"                = "plaintext"
 "markup.strikethrough"      = { modifiers = ["crossed_out"] }
 
 "diff.delta"                = "yellow"
