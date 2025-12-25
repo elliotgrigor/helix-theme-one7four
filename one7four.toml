@@ -4,7 +4,7 @@
 
 "attribute"                 = "silver"
 "comment"                   = "green"
-"constant.builtin"          = "plaintext"
+"constant.builtin"          = "orange"
 "constant.character.escape" = "blue"
 "constant.numeric"          = "orange"
 "constant"                  = "plaintext"
