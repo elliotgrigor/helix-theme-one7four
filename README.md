@@ -3,6 +3,6 @@
 Syntax theme for [helix editor](https://github.com/helix-editor/helix).
 Heavily influenced by [gruber-darker](https://github.com/helix-editor/helix/blob/master/runtime/themes/gruber-darker.toml).
 
-| Rust                                        | HTML                                                 |
-|---------------------------------------------|------------------------------------------------------|
-| ![Rust preview](./screenshots/preview0.png) | ![HTML preview](./screenshots/preview1.png)           |
+| Go                                        | GoHTML                                        |
+|-------------------------------------------|-----------------------------------------------|
+| ![Go preview](./screenshots/preview0.png) | ![GoHTML preview](./screenshots/preview1.png) |
